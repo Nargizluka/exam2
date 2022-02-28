@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+main {
+  padding: 20px;
+}
+
+#preview {
+  margin-top: 10px;
+  height: 30px;
+}
+
+
+h2 {
+  margin-bottom: 12px;
+}
+
+section p {
+  margin-bottom: 6px;
+  border-bottom: 1px solid #ddd;
+}
